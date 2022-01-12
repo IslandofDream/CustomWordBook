@@ -34,7 +34,7 @@
 
 일부 단어는 임의로 삭제가능합니다. 
 
-[]()
+![212.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24de9fac-4e16-4196-8b6b-edc827584b82/212.gif)
 
 ![4.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2162e58-9e2b-47ed-b20f-eb6ac4a763e5/4.gif)
 
@@ -44,7 +44,7 @@
 
 checked 애트리뷰트가 모두 1인 상태이기 때문에 모든 토글버튼이 on 상태입니다. 해당 Fragment에서도 토글버튼을 통해서 즐겨찾기 해제가 가능합니다.
 
-[]()
+![3_1.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3d36058b-2e6e-44be-8506-538bfdf646cb/3_1.gif)
 
 ![5.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b01cb19-3cab-4a75-be78-10f61575619e/5.gif)
 
@@ -58,7 +58,7 @@ Fragment 내부에 별도의 Viewpager를 하나 더 두어서 영단어를 보�
 
 해당 퀴즈 프래그먼트에서도 단어의 즐겨찾기를 등록 할 수 있습니다. 힌트와 정답공개를 통해서 문제풀이에 도움을 받을 수도 있습니다.
 
-![6.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f55173fc-ee7c-4efe-b699-78ed1b3ba37c/6.gif)
+![6.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c2de037-0bff-4e8e-9da9-4579dd3233c6/6.gif)
 
 ![7.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/488bbe3c-43ee-492c-9e81-913ab69d7619/7.gif)
 
