@@ -16,13 +16,13 @@
 
 메인 액티비티는 다음과 같습니다. 하나의 액티비티속에 Fragment Container를 삽입하여서 가장 하단의 메뉴들을 선택하면 Viewpager를 통해서 Fragment를 전환합니다. Fragment가 변화함에 따라서 가장 상단 텍스튜의 이름이 변화하면서 어떤 내용의 Fragment인지 알 수 있습니다.
 
-![image02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3e11f337-53bb-427e-9b7a-bf86b085ab93/image02.png)
+![image02](https://user-images.githubusercontent.com/70648111/149072093-3e5825fb-7440-46db-8407-9036e9a5c032.png)
 
 ## **<데이터베이스>**
 
 데이터베이스의 구성은 다음과 같습니다. 총 4개의 애티리뷰트가 있으며, 각각 id,영단어, 뜻, 이후 북마크를 활용하기 위한 checked 애트리뷰트가 존재합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b17dd07-0b41-42d7-b250-b012c634f1f2/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/70648111/149071869-0f72a999-dccc-4b58-a034-5a3906df8f69.png)
 
 ## **<단어장>**
 
@@ -34,9 +34,9 @@
 
 일부 단어는 임의로 삭제가능합니다. 
 
-![212.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24de9fac-4e16-4196-8b6b-edc827584b82/212.gif)
+![212](https://user-images.githubusercontent.com/70648111/149071821-29debe44-46bf-42ee-9af3-af981b1ce425.gif)
 
-![4.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2162e58-9e2b-47ed-b20f-eb6ac4a763e5/4.gif)
+![4](https://user-images.githubusercontent.com/70648111/149071764-58d2652d-7393-40bd-8e4b-bd5661d7b6f7.gif)
 
 ## **<즐겨찾기>**
 
@@ -44,9 +44,9 @@
 
 checked 애트리뷰트가 모두 1인 상태이기 때문에 모든 토글버튼이 on 상태입니다. 해당 Fragment에서도 토글버튼을 통해서 즐겨찾기 해제가 가능합니다.
 
-![3_1.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3d36058b-2e6e-44be-8506-538bfdf646cb/3_1.gif)
+![3_1](https://user-images.githubusercontent.com/70648111/149071829-df8443c9-1d75-4526-aab2-6e23c46a972b.gif)
 
-![5.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b01cb19-3cab-4a75-be78-10f61575619e/5.gif)
+![5](https://user-images.githubusercontent.com/70648111/149071991-1ad180db-1c15-4fd4-9869-970df574d9a2.gif)
 
 ## **<퀴즈>**
 
@@ -58,9 +58,9 @@ Fragment 내부에 별도의 Viewpager를 하나 더 두어서 영단어를 보�
 
 해당 퀴즈 프래그먼트에서도 단어의 즐겨찾기를 등록 할 수 있습니다. 힌트와 정답공개를 통해서 문제풀이에 도움을 받을 수도 있습니다.
 
-![6.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c2de037-0bff-4e8e-9da9-4579dd3233c6/6.gif)
+![6](https://user-images.githubusercontent.com/70648111/149071783-afef1916-f0e9-4a82-b8af-42cf13b686a5.gif)
 
-![7.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/488bbe3c-43ee-492c-9e81-913ab69d7619/7.gif)
+![7](https://user-images.githubusercontent.com/70648111/149071791-19b11de9-c065-44cf-a165-94f84c191140.gif)
 
 ## **<검색 및 저장>**
 
@@ -70,11 +70,11 @@ Fragment 내부에 별도의 Viewpager를 하나 더 두어서 영단어를 보�
 
 ### 파싱
 
-![9.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bd27af7-0560-4d82-bdf4-a9f953684680/9.gif)
+![9](https://user-images.githubusercontent.com/70648111/149071814-c7966c3c-30ac-4fab-9ae6-98a6bcc9dbf9.gif)
 
 ### 단어 저장
 
-![8.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bdfcbc64-7d3d-4a36-ab44-dced34c389dc/8.gif)
+![8](https://user-images.githubusercontent.com/70648111/149071808-34df3f33-d511-4763-922d-3431e8e470cd.gif)
 
 # **◎ 느낀점 및 개선점**
 
